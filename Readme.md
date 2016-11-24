@@ -13,12 +13,16 @@ $ npm install hexo-tag-table-bootstrap --save
 Then you can use this tag plugins in your blog, as easily as you normally do using hexo tag plugins.
 
 ### Syntax ###
-- optional class
 ```
 {% table [class] %}
   table md
 {% endtable %}
 ```
+The class attribute is optional:
+- table-striped
+- table-bordered
+- table-hover
+- table-condensed
 
 ### Example ###
 ```
@@ -34,7 +38,9 @@ Then you can use this tag plugins in your blog, as easily as you normally do usi
 
 ```
 ### Result ###
-- <table class="table">
+```
+<table class="table">
+```
 ![alt tag] (https://github.com/jorgeabad/hexo-tag-table-bootstrap/blob/master/img/table1.png)
 
 
@@ -52,5 +58,7 @@ Then you can use this tag plugins in your blog, as easily as you normally do usi
 
 ```
 ### Result ###
-- <table class="table table-striped">
+```
+<table class="table table-striped">
+```
 ![alt tag] (https://github.com/jorgeabad/hexo-tag-table-bootstrap/blob/master/img/table.png)
