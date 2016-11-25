@@ -41,7 +41,7 @@ The class attribute is optional:
 ```
 <table class="table">
 ```
-![alt tag] (https://raw.githubusercontent.com/jorgeabad/hexo-tag-table-bootstrap/master/img/table1.png)
+![table!](https://raw.githubusercontent.com/jorgeabad/hexo-tag-table-bootstrap/master/img/table1.png)
 
 
 ### Example ###
@@ -61,4 +61,4 @@ The class attribute is optional:
 ```
 <table class="table table-striped">
 ```
-![alt tag] (https://raw.githubusercontent.com/jorgeabad/hexo-tag-table-bootstrap/master/img/table.png)
+![table table-striped!](https://raw.githubusercontent.com/jorgeabad/hexo-tag-table-bootstrap/master/img/table.png)

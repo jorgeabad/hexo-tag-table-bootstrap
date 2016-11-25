@@ -1,7 +1,7 @@
 {
   "name": "hexo-tag-table-bootstrap",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.4",
+  "description": "hexo tag-plugin for adding the class attribute to the table tag for themes bootstrap",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

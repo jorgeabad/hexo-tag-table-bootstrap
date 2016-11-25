@@ -1,6 +1,3 @@
-
-var Hexo = require('hexo');
-var hexo = new Hexo(process.cwd(), {});
 var marked = require('marked');
 /**
  * table tag
