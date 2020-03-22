@@ -16,6 +16,5 @@ module.exports = function(args, content){
 		style ='table';
 var table=marked(content);
 table=table.replace("<table>", '<table class="'+style+'">');
-console.log(table);
 	return table;
 };
